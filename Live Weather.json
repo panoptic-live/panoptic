@@ -1,0 +1,65 @@
+{
+  "name": "Live Weather",
+  "videos": [
+    {
+      "platform": "youtube",
+      "id": "mvOgtXbtRwM"
+    },
+    {
+      "platform": "youtube",
+      "id": "eoHIOO08oJQ"
+    },
+    {
+      "platform": "youtube",
+      "id": "T3oYDzm_ff0"
+    },
+    {
+      "platform": "youtube",
+      "id": "wMqmEecff6s"
+    },
+    {
+      "platform": "twitch-live",
+      "id": "weatherco_op"
+    },
+    {
+      "platform": "twitch-live",
+      "id": "weatherradar711"
+    },
+    {
+      "platform": "youtube",
+      "id": "GbuKWfrTFsE"
+    },
+    {
+      "platform": "youtube",
+      "id": "0tDeAg_mGa0"
+    },
+    {
+      "platform": "youtube",
+      "id": "aAL7vl6m3CM"
+    },
+    {
+      "platform": "youtube",
+      "id": "wt6SIE7BXS8"
+    },
+    {
+      "platform": "twitch-live",
+      "id": "yourweatherradar"
+    },
+    {
+      "platform": "twitch-live",
+      "id": "weatherradar7"
+    },
+    {
+      "platform": "youtube",
+      "id": "i10InF4Y0cw"
+    },
+    {
+      "platform": "twitch-live",
+      "id": "tnsweathertracker"
+    },
+    {
+      "platform": "youtube",
+      "id": "fc9NcfJNFlY"
+    }
+  ]
+}

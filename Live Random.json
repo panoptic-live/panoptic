@@ -1,0 +1,37 @@
+{
+  "name": "Live Random",
+  "videos": [
+    {
+      "platform": "youtube",
+      "id": "sVHoufTzJ7Y"
+    },
+    {
+      "platform": "twitch-live",
+      "id": "alf_deutsch"
+    },
+    {
+      "platform": "twitch-live",
+      "id": "reefandchill"
+    },
+    {
+      "platform": "youtube",
+      "id": "ydYDqZQpim8"
+    },
+    {
+      "platform": "twitch-live",
+      "id": "rambodriving"
+    },
+    {
+      "platform": "twitch-live",
+      "id": "hankysw1ss"
+    },
+    {
+      "platform": "youtube",
+      "id": "uZRyd32cxcY"
+    },
+    {
+      "platform": "twitch-live",
+      "id": "blackhat_013"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Live Finance, Stocks",
+  "videos": [
+    {
+      "platform": "youtube",
+      "id": "KQp-e_XQnDE"
+    },
+    {
+      "platform": "twitch-live",
+      "id": "k1m6a"
+    },
+    {
+      "platform": "youtube",
+      "id": "iEpJwprxDdk"
+    },
+    {
+      "platform": "twitch-live",
+      "id": "markettraderstv"
+    }
+  ]
+}

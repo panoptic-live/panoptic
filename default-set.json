@@ -1,0 +1,21 @@
+{
+  "name": "Collect, mix and watch multiple, simultaneous video streams from multiple platforms",
+  "videos": [
+    {
+      "platform": "youtube",
+      "id": "iEpJwprxDdk"
+    },
+    {
+      "platform": "youtube",
+      "id": "YDvsBbKfLPA"
+    },
+    {
+      "platform": "youtube",
+      "id": "GMMXpkWb-kc"
+    },
+    {
+      "platform": "youtube",
+      "id": "MiJIODpKngw"
+    }
+  ]
+}

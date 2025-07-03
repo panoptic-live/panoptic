@@ -1,0 +1,21 @@
+{
+  "name": "Live Sports",
+  "videos": [
+    {
+      "platform": "youtube",
+      "id": "MiJIODpKngw"
+    },
+    {
+      "platform": "youtube",
+      "id": "kRUEBv6XETg"
+    },
+    {
+      "platform": "youtube",
+      "id": "mxWTJwnP2pI"
+    },
+    {
+      "platform": "twitch-live",
+      "id": "spontent"
+    }
+  ]
+}

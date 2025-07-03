@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Live News",
+    "file": "Live News.json"
+  },
+  {
+    "name": "Live Sports",
+    "file": "Live Sports.json"
+  },
+  {
+    "name": "Live Weather",
+    "file": "Live Weather.json"
+  },
+  {
+    "name": "Live Finance, Stocks",
+    "file": "Live Finance, Stocks.json"
+  },
+  {
+    "name": "Live Crypto Charts",
+    "file": "Live Crypto Charts.json"
+  },
+  {
+    "name": "Live Webcams",
+    "file": "Live Webcams.json"
+  },
+  {
+    "name": "Live Webcams - Undersea Life",
+    "file": "Live Webcams - Undersea Life.json"
+  },
+  {
+    "name": "Live Random",
+    "file": "Live Random.json"
+  }
+]
+  
