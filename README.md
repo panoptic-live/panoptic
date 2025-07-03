@@ -2,7 +2,7 @@
 
 Welcome to the community and issue tracking repository for [**Panoptic**](https://panoptic.live)!  
 
-Use this space to report bugs, request features, and discuss the Panoptic multi-stream viewer.
+Use this space to report bugs, request features, and discuss the Panoptic multi-platform stream viewer.
 
 ---
 
@@ -26,9 +26,10 @@ Try it at: **https://panoptic.live/**
 If you encounter bugs, strange behavior, or have feature suggestions, please:
 
 1. **Check existing issues**  
+
    Search [Open Issues](https://github.com/panoptic-live/panoptic/issues) to see if someone else has already reported it.
 
-2. **Open a new issue**  
+3. **Open a new issue**  
    - Click **“New Issue”** in the sidebar.  
    - Fill in the details:  
      - **Reproduction steps** (drag/drop URLs used, number of videos, layout selected).  
@@ -36,12 +37,12 @@ If you encounter bugs, strange behavior, or have feature suggestions, please:
      - **Browser & OS** (e.g. Chrome 115 on Windows 11).  
      - **Screenshots** or console logs (if applicable).
 
-3. **Submit**  
+4. **Submit**  
    Click **“Create”**. You’ll get notifications for any follow-up questions or fixes.
 
 ---
 
-## Community & Support
+## Community
 
 - **Discussions**: Ask questions, share tips and custom “mixes” in [GitHub Discussions](https://github.com/panoptic-live/panoptic/discussions).  
 
